@@ -1,3 +1,10 @@
+---
+layout: default
+title: UI Components
+nav_order: 1
+has_children: true
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/vlangloisx3/vlangloisx3.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
